@@ -1,0 +1,1 @@
+echo "Tis is the test of Git"
